@@ -11,7 +11,7 @@
   - [Shu Lea Cheang, *Brandon*]()
   - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
   - [Adriene Jenik, *Desktop Theater*, 1997-2002](http://149.169.27.73/~adriene/projects_dt.html)
-  - https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg
-  - https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg
-  - https://en.wikipedia.org/wiki/File:DasUndbild.jpg
-  - https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg 
+  - [Hannah Höch, *Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany*, 1919.](https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg)
+  - [Pablo Picasseo, *Head (Tête)*, 1912-14.](https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg)
+  - [Kurt Schwitters, *Das Undbild*, 1919.](https://en.wikipedia.org/wiki/File:DasUndbild.jpg)
+  - [Richard Hamilton, *Just what is it that makes today's homes so different, so appealing?*, 1956.](https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg)
