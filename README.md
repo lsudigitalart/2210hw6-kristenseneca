@@ -4,7 +4,7 @@
 - Inspiration:
   - [Rollin Leonard](http://poetech.info/image/76957157145)
   - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
-  - Petra Cortright
+  - [Petra Cortright](http://www.petracortright.com/hello.html)
   - [Adam Gray, *Hella More Funner*, 2007-present.](http://www.adam-gray.com/hella-more-funner-1/)
   - Jodi
   - [Mark Nappier, *Shredder*, 1998.](http://www.potatoland.org/shredder/shredder.html)
