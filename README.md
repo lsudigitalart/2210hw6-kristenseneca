@@ -1,2 +1,17 @@
 - HW: 7/Media: Load and display media, including images and fonts.
-- HW: Click the link: https://classroom.github.com/assignment-invitations/79214ff81ca3961b0df7922d2dbded39. Create an interactive collage using found images. See the following link to create your own server before previewing images: https://github.com/processing/p5.js/wiki/Local-server. Host your website on github.io. Inspiration: https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg, https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg, https://en.wikipedia.org/wiki/File:DasUndbild.jpg, https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg 
+- HW: Click the link: https://classroom.github.com/assignment-invitations/79214ff81ca3961b0df7922d2dbded39. 
+- HW: Create an interactive collage using found images. See the following link to create your own server before previewing images: https://github.com/processing/p5.js/wiki/Local-server. Host your website on github.io. 
+- Inspiration:
+  - [Rollin Leonard](http://poetech.info/image/76957157145)
+  - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
+  - Petra Cortright
+  - [Adam Gray, *Hella More Funner*, 2007-present.](http://www.adam-gray.com/hella-more-funner-1/)
+  - Jodi
+  - [Mark Nappier, *Shredder*, 1998.](http://www.potatoland.org/shredder/shredder.html)
+  - [Shu Lea Cheang, *Brandon*]()
+  - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
+  - [Adriene Jenik, *Desktop Theater*, 1997-2002](http://149.169.27.73/~adriene/projects_dt.html)
+  - https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg
+  - https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg
+  - https://en.wikipedia.org/wiki/File:DasUndbild.jpg
+  - https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg 
