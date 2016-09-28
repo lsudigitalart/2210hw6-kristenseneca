@@ -6,7 +6,7 @@
   - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
   - [Petra Cortright](http://www.petracortright.com/hello.html)
   - [Adam Gray, *Hella More Funner*, 2007-present.](http://www.adam-gray.com/hella-more-funner-1/)
-  - <Jodi.org>
+  - [Jodi](http://jodi.org)
   - [Mark Nappier, *Shredder*, 1998.](http://www.potatoland.org/shredder/shredder.html)
   - [Shu Lea Cheang, *Brandon*]()
   - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
