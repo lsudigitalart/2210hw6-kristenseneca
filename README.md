@@ -6,7 +6,7 @@
   - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
   - [Petra Cortright](http://www.petracortright.com/hello.html)
   - [Adam Gray, *Hella More Funner*, 2007-present.](http://www.adam-gray.com/hella-more-funner-1/)
-  - Jodi
+  - <Jodi.org>
   - [Mark Nappier, *Shredder*, 1998.](http://www.potatoland.org/shredder/shredder.html)
   - [Shu Lea Cheang, *Brandon*]()
   - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
@@ -14,4 +14,4 @@
   - [Hannah Höch, *Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany*, 1919.](https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg)
   - [Pablo Picasseo, *Head (Tête)*, 1912-14.](https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1913-14,_Head_(T%C3%AAte),_cut_and_pasted_colored_paper,_gouache_and_charcoal_on_paperboard,_43.5_x_33_cm,_Scottish_National_Gallery_of_Modern_Art,_Edinburgh.jpg)
   - [Kurt Schwitters, *Das Undbild*, 1919.](https://en.wikipedia.org/wiki/File:DasUndbild.jpg)
-  - [Richard Hamilton, *Just what is it that makes today's homes so different, so appealing?*, 1956.](https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg)
+  - [Richard Hamilton, *Just what is it that makes today's homes so different, so appealing?* 1956.](https://en.wikipedia.org/wiki/File:Hamilton-appealing2.jpg)
