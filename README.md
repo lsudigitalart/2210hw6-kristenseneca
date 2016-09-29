@@ -8,7 +8,7 @@
   - [Adam Gray, *Hella More Funner*, 2007-present.](http://www.adam-gray.com/hella-more-funner-1/)
   - [Jodi](http://jodi.org)
   - [Mark Nappier, *Shredder*, 1998.](http://www.potatoland.org/shredder/shredder.html)
-  - [Shu Lea Cheang, *Brandon*]()
+  - [Shu Lea Cheang, *Brandon*](http://brandon.guggenheim.org/)
   - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
   - [Adriene Jenik, *Desktop Theater*, 1997-2002](http://149.169.27.73/~adriene/projects_dt.html)
   - [Hannah Höch, *Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany*, 1919.](https://en.wikipedia.org/wiki/File:Hoch-Cut_With_the_Kitchen_Knife.jpg)
